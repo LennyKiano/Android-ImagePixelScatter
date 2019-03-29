@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageScatterDemo</string>
+    <string name="take_a_photo">Take a Photo</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="main_info">Welcome to Image Scatter Demo.\nTake a picture or choose one from your gallery.</string>
+    <string name="scatter_image">Scatter Image</string>
+    <string name="Share">Share Image</string>
+</resources>
